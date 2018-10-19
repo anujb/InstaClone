@@ -5,46 +5,46 @@ import Ionicons from 'react-native-vector-icons/Ionicons'
 import AvView from '../AvView'
 
 const data = [{
-  key: "1",
-  username: 'ken',
+  key: 1,
+  username: 'james',
   type: 'video',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/drive.mov?st=2018-03-18T08%3A47%3A00Z&se=2018-04-19T08%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=b&sig=noacC6dFFoGBNO98lQNvY%2F%2BKk0oIpJavGRKTA7A9t44%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/videos/drive.mov',
   avatarUrl: 'https://unsplash.it/100?image=1005'
 }, {
-  key: "2",
+  key: 2,
   username: 'jennifer',
   type: 'image',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/baking.jpg?st=2018-03-18T03%3A47%3A00Z&se=2019-03-19T03%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=c&sig=tTcn8TdQjxMAg3fzxuUbYOS9sObMU2TQ23Q1iSUut5M%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/images/baking.jpg',
   avatarUrl: 'https://unsplash.it/100?image=1027'
 }, {
-  key: "3",
+  key: 3,
   username: 'cathy',
   type: 'video',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/sky.mov?st=2018-03-18T03%3A47%3A00Z&se=2019-03-19T03%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=c&sig=tTcn8TdQjxMAg3fzxuUbYOS9sObMU2TQ23Q1iSUut5M%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/videos/sky.mov',
   avatarUrl: 'https://unsplash.it/100?image=996'
 }, {
-  key: "4",
+  key: 4,
   username: 'zack',
   type: 'image',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/landscape.jpg?st=2018-03-18T03%3A47%3A00Z&se=2019-03-19T03%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=c&sig=tTcn8TdQjxMAg3fzxuUbYOS9sObMU2TQ23Q1iSUut5M%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/images/landscape.jpg',
   avatarUrl: 'https://unsplash.it/100?image=856'
 }, {
-  key: "5",
+  key: 5,
   username: 'luke',
   type: 'image',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/snow.jpg?st=2018-03-18T03%3A47%3A00Z&se=2019-03-19T03%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=c&sig=tTcn8TdQjxMAg3fzxuUbYOS9sObMU2TQ23Q1iSUut5M%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/images/snow.jpg',
   avatarUrl: 'https://unsplash.it/100?image=669'
 }, {
-  key: "6",
+  key: 6,
   username: 'anna',
   type: 'video',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/garden.mov?st=2018-03-18T03%3A47%3A00Z&se=2019-03-19T03%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=c&sig=tTcn8TdQjxMAg3fzxuUbYOS9sObMU2TQ23Q1iSUut5M%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/videos/garden.mov',
   avatarUrl: 'https://unsplash.it/100?image=823'
 }, {
-  key: "7",
+  key: 7,
   username: 'ken',
   type: 'image',
-  source: "https://nikeakshackfeststorage.blob.core.windows.net/nikeakshackfestblobcontainer/town.jpg?st=2018-03-18T03%3A47%3A00Z&se=2019-03-19T03%3A47%3A00Z&sp=rl&sv=2017-04-17&sr=c&sig=tTcn8TdQjxMAg3fzxuUbYOS9sObMU2TQ23Q1iSUut5M%3D",
+  source: 'https://github.com/anujb/InstaClone/raw/master/contents/images/town.jpg',
   avatarUrl: 'https://unsplash.it/100?image=550'
 }]
 

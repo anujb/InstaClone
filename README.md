@@ -9,6 +9,15 @@ Instagram Clone built with React Native.
 ## Get Started
 
 ```sh
+
+# Follow react-native install instructions here – 
+# https://facebook.github.io/react-native/docs/getting-started.html#installing-dependencies
+# brew install node
+# brew install watchman
+# npm install -g react-native-cli
+
+#Then clone and run InstaClone
+
 $ git clone https://github.com/anujb/InstaClone.git
 $ cd InstaClone
 $ yarn install
